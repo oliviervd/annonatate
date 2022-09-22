@@ -1,0 +1,9 @@
+---
+canvas_id: "https://api.collectie.gent/iiif/image/iiif/2/8d16e6237efec9b68483dbede5f7dbcb-transcode-MA_SCMS_FO_03941.jpg/full/full/0/default.jpg"
+---
+{% assign annotations = site.annotations | where: "canvas", page.canvas_id | sort: "order" | map: "content" %}
+{
+"@context": "http://iiif.io/api/presentation/3/context.json",
+"id": "{{ site.url }}{{ site.baseurl }}{{page.url}}",
+"type": "AnnotationPage",
+"items": [{{ annotations | join: ","}}] }
