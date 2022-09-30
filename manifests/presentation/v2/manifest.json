@@ -1,0 +1,50 @@
+---
+---
+{
+  "@context": "https:///iiif.io/api/presentation/2/context.json",
+  "@id": "https://oliviervd.github.io/annonatate/manifests/presentation/v2/manifest.json",
+  "@type": "sc:Manifest",
+  "label": {
+    "@value": "Gent: Jan Breydelstraat: Design Museum Gent, zonder datum",
+    "@language": "nl"
+  },
+  "description": "Deze foto staat samen met MA_SCMS_FO_03939, MA_SCMS_FO_03940 en MA_SCMS_FO_03942 op \u00e9\u00e9n drager. Op de achterzijde een stempel van Commissie der Monumenten (SCMS).",
+  "rendering": {
+    "@id": "https://stad.gent/id/mensgemaaktobject/archiefgent/670026298/2022-08-21T04:00:24.202Z"
+  },
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://api.collectie.gent/iiif/presentation/v2/canvas/8d16e6237efec9b68483dbede5f7dbcb-transcode-MA_SCMS_FO_03941.jpg.json",
+          "@type": "sc:Canvas",
+          "label": "8d16e6237efec9b68483dbede5f7dbcb-transcode-MA_SCMS_FO_03941.jpg",
+          "height": 1070,
+          "width": 1649,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "attribution": "source: Archief Gent",
+              "license": "http://rightsstatements.org/vocab/InC-RUU/1.0/",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api.collectie.gent/iiif/image/iiif/2/8d16e6237efec9b68483dbede5f7dbcb-transcode-MA_SCMS_FO_03941.jpg/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1070,
+                "width": 1649,
+                "service": {
+                  "@context": "https:///iiif.io/api/image/2/context.json",
+                  "@id": "https://api.collectie.gent/iiif/image/iiif/2/8d16e6237efec9b68483dbede5f7dbcb-transcode-MA_SCMS_FO_03941.jpg",
+                  "profile": "https:///iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://api.collectie.gent/iiif/presentation/v2/canvas/8d16e6237efec9b68483dbede5f7dbcb-transcode-MA_SCMS_FO_03941.jpg.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
