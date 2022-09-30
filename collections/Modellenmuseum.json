@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Modellenmuseum",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://oliviervd.github.io/annonatate/annotations/c6caa23c-b41c-45a0-b701-bdb3e4a8eeb4.json'></iiif-storyboard>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
