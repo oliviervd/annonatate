@@ -7,14 +7,14 @@ order: 1
     "body": [
         {
             "type": "TextualBody",
-            "value": "Armstoel met pilaster (inv. 1943)\nhttps://data.collectie.gent/entity/dmg:1943\n",
+            "value": "Armstoel met pilaster (inv. 1943)\n\n",
             "purpose": "linking",
             "creator": {
                 "id": "oliviervd",
                 "name": "Olivier Van D'huynslager "
             },
             "created": "2022-09-30T11:02:54.576Z",
-            "modified": "2022-09-30T11:03:42.642Z"
+            "modified": "2022-09-30T11:04:11.859Z"
         }
     ],
     "target": {
