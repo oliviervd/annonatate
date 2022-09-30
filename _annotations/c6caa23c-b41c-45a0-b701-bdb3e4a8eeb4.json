@@ -15,6 +15,16 @@ order: 2
             },
             "created": "2022-09-30T11:05:04.910Z",
             "modified": "2022-09-30T11:05:13.910Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "https://data.collectie.gent/entity/dmg:3002",
+            "purpose": "commenting",
+            "creator": {
+                "id": "oliviervd",
+                "name": "Olivier Van D'huynslager "
+            },
+            "created": "2022-09-30T11:05:25.344Z"
         }
     ],
     "target": {
