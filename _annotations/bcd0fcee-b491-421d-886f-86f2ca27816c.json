@@ -7,14 +7,24 @@ order: 5
     "body": [
         {
             "type": "TextualBody",
-            "value": "1796",
+            "value": "https://data.collectie.gent/entity/dmg:1796",
             "purpose": "commenting",
             "creator": {
                 "id": "oliviervd",
                 "name": "Olivier Van D'huynslager "
             },
             "created": "2022-09-30T11:19:58.334Z",
-            "modified": "2022-09-30T11:19:59.900Z"
+            "modified": "2022-09-30T11:20:49.066Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "1796",
+            "creator": {
+                "id": "oliviervd",
+                "name": "Olivier Van D'huynslager "
+            },
+            "created": "2022-09-30T11:20:08.745Z"
         }
     ],
     "target": {
